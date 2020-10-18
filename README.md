@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I'm Ruwani 👋
 
-<!--
-**ruwanidealwis/ruwanidealwis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+I'm an incoming third year student at uOttawa studying Software Engineering! I am passionate about fullstack development, databases, REST APIs and have taken up some interest in machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on <strong>Analyzing World Happiness</strong>
+- 🌱 I’m currently learning <strong>ML</strong> and <strong>Java Servers!</strong>
+- 💬 Ask me about Javascript!
+- 📫 How to reach me: ruwanide51@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love embroidery!
+
+#### My Work
+
+* checkout my pinned repos!
+* [my website](https://ruwanidealwis.github.io/portfoliowebsite/)
