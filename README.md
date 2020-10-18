@@ -10,8 +10,3 @@ I'm an incoming third year student at uOttawa studying Software Engineering! I a
 - 📫 How to reach me: ruwanide51@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love embroidery!
-
-#### My Work
-
-* checkout my pinned repos!
-* [my website](https://ruwanidealwis.github.io/portfoliowebsite/)
