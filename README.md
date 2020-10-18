@@ -1,4 +1,4 @@
-### Hi there I'm Ruwani 👋
+### Hi there I'm Ruwani 👋🏽
 
 #### About Me
 
