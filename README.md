@@ -1,11 +1,11 @@
-### Hi there, I'm Ruwani 👋🏽
+### Hi there, i'm ruwani 👋🏽
 
 #### About Me
 
-I'm a third year student at uOttawa studying Software Engineering! I love software, and I have a passion fullstack development, databases and REST APIs!
+i'm a third year student at uOttawa studying Software Engineering & I am interested in fullstack development
 
-- 🔭 I’m currently working on <strong>A GraphQL Movie Tracker</strong>, and a <strong> Messaging App</strong>
-- 🌱 I’m currently learning <strong>GraphQL</strong>,<strong>Flask</strong>
-- 📫 How to reach me: ruwanide51@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love embroidery!
+- 🔭 i’m currently working on a <strong> Messaging App</strong>
+- 🌱 i’m currently learning <strong>GraphQL</strong> & <strong>Flask</strong>
+- 📫 how to reach me: ruwanide51@gmail.com
+- 😄 pronouns: she/her
+- ⚡ fun fact: I like to paint :) 
