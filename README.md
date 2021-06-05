@@ -1,11 +1,24 @@
-### Hi there, i'm ruwani 👋🏽
+## hi! i'm ruwani
 
-#### About Me
 
-i'm a third year student at uOttawa studying Software Engineering & I am interested in fullstack development
+i'm a third year software engineering student at @uottawa, and i love to watch netflix, paint, embroider and also code!  
 
-- 🔭 i’m currently working on a <strong> Messaging App</strong>
-- 🌱 i’m currently learning <strong>GraphQL</strong> & <strong>Flask</strong>
-- 📫 how to reach me: ruwanide51@gmail.com
-- 😄 pronouns: she/her
-- ⚡ fun fact: I like to paint :) 
+
+ ### ⛅ quick links! ⛅
+ 🪴 ruwanide51@gmail.com \
+ 🪴 [linkedin!](https://www.linkedin.com/in/ruwani-de-alwis/) 
+ 
+ 
+ ### ⛅ some quick facts ⛅
+
+🌻 interested in fullstack & backend development, software architecture & design\
+🌻 learning graphql, vuejs & flask\
+🌻 working on a messaging app
+
+---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanidealwis&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
