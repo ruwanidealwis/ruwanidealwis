@@ -15,10 +15,4 @@ i'm a third year software engineering student at @uottawa, and i love to watch n
 🌻 learning redis, vuejs & software architecture\
 🌻 working on a python cli app
 
----
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanidealwis&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
