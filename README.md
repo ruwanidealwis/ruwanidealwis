@@ -13,6 +13,5 @@ i'm a third year software engineering student at @uottawa, and i love to watch n
 
 🌻 interested in fullstack & backend development, software architecture & design\
 🌻 learning redis, vuejs & software architecture\
-🌻 working on a python cli app
 
 
